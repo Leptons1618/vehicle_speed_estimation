@@ -31,9 +31,6 @@ python save_model.py --model yolov4
 
 # Run yolov4 deep sort object tracker on video
 python object_tracker.py --video ./data/video/cars.mp4 --output ./outputs/cars.mp4 --model yolov4
-
-# Run yolov4 deep sort object tracker on webcam (set video flag to 0)
-python object_tracker.py --video 0 --output ./outputs/webcam.avi --model yolov4
 ```
 The output flag allows you to save the resulting video of the object tracker running so that you can view it again later. Video will be saved to the path that you set. (outputs folder is where it will be if you run the above command!)
 
