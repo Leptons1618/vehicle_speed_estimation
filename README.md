@@ -1,5 +1,5 @@
 Backbone of this code is 
-  *[yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort)
+* [yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort)
 
 ### Pip
 (TensorFlow 2 packages require a pip version >19.0.)
