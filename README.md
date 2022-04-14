@@ -1,7 +1,8 @@
 ```speed = distance / time```
 If we can calculate distance between two points and measure the time taken by a vehicle to reach one point to another point, then we can use the above formula to calculate speed and estimate the velocity of an vehicle.
 
-We actually did exactly as mentioned above. Draw two lines, somehow know the distance between the lines(by calculating the pixels and pass the number through some formula or by actually measure the distance manually or use your own way to calculate the distance) and record the time to reach the vehicle from one point to another point. <p align="center"><img src="data/helpers/speed.PNG"\></p>
+We actually did exactly as mentioned above. Draw two lines, somehow know the distance between the lines(by calculating the pixels and pass the number through some formula or by actually measure the distance manually or use your own way to calculate the distance) and record the time to reach the vehicle from one point to another point. 
+<p align="center"><img src="data/helpers/speed.png"\></p>
 
 Backbone of this code is 
 * [yolov4-deepsort](https://github.com/theAIGuysCode/yolov4-deepsort)
