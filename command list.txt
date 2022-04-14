@@ -1,0 +1,2 @@
+python save_model.py --model yolov4
+python object_tracker.py --video ./data/video/cars.mp4 --output ./outputs/cars.mp4 --model yolov4
